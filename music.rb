@@ -15,7 +15,7 @@
 
 my_house[
   :bedrooms => "3"
-  :bathrooms =>"2"
+  :bathrooms => "2"
   :type_house => "apartment"
 ]
 
