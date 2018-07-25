@@ -19,5 +19,5 @@ my_house{
   :type_house => "apartment"
 }
 
-puts my_house
+puts "My #{my_house(type_house)} has #{my_house(bedrooms)} bedrooms and #{my_house(bathrooms)}"
 
