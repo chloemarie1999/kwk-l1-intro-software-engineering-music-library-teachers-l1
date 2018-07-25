@@ -13,5 +13,11 @@
 # This method should accept three arguments, the library hash, the artist, and the song.
 
 
+my_house{
+  :bedrooms => "3"
+  :bathrooms =>"2"
+  :type_house => "apartment"
+}
 
+puts my_house
 
